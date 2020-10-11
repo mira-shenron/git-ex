@@ -59,7 +59,7 @@ var gProjs = [
         url: "",
         publishedAt: 1448693940000,
         labels: ['Game', 'Ball', 'Board'],
-        imgUrl : 'img/portfolio/ballsBoard2.jpg'
+        imgUrl : 'img/portfolio/ball.jpg'
     }
 ];
 
