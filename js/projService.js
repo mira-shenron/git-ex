@@ -9,7 +9,7 @@ var gProjs = [
         url: "https://mira-shenron.github.io/mineSweeper/",
         publishedAt: 1448693940000,
         labels: ['Mines', 'War', 'Game'],
-        imgUrl : 'img/portfolio/minesweeper1.jpg'
+        imgUrl : 'img/portfolio/minesweeper.jpg'
     },
     {
         id: "inPicure",
@@ -49,7 +49,7 @@ var gProjs = [
         url: "",
         publishedAt: 1448693940000,
         labels: ['Book', 'Management App', 'Shop'],
-        imgUrl : 'img/portfolio/bookshop2.jpg'
+        imgUrl : 'img/portfolio/bookshop.jpg'
     },
     {
         id: "ballBoard",
