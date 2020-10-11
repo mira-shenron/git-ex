@@ -198,7 +198,6 @@ header.masthead {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    filter: brightness(0.7);
 }
 header.masthead .intro-text {
     padding-top: 150px;
